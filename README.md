@@ -1,4 +1,4 @@
-# Internet Check V1.0
+# Internet Check
 
 Copyright [2021] [Manikandan KRM]
 
